@@ -4,7 +4,9 @@ Welcome to PyAdventures, an interactive RPG that **teaches Python programming** 
 📂 [View Presentation](./Presentation/PyAdventures_Presentation.pdf)  
 🎮 [Download Demo](./Demo/PyAdventures_Demo.zip)  
 
-# 🌲 The Curse of the Magic Forest - Adventure Game
+<p align="center">⚠️ <b>Heads up:</b> These projects are still in development, so demo versions may have bugs! 🛠️</p>
+
+# 🌲 The Curse of the Magic Forest - Adventure Game ✨
 A **mystical adventure game** where players navigate a cursed forest, solving puzzles and uncovering secrets.
 
 📂 [View Presentation](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/raw/main/The-Curse-of-the-Magic-Forest/Presentation/The_Curse_of_The_Magic_Forest_Final.pptx)             
