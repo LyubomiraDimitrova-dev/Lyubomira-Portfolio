@@ -14,3 +14,10 @@ A **mystical adventure game** where players navigate a cursed forest, solving pu
 
 📂 [View Presentation](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/raw/main/The-Curse-of-the-Magic-Forest/Presentation/The_Curse_of_The_Magic_Forest_Final.pptx)             
 🎮 [Download Demo](./Demo/Magic_Forest_Demo.zip)  
+
+
+# 🐶 Scooby-Doo Mystery Maze Mini Game 
+A **3D maze adventure game** inspired by the classic Scooby-Doo series! Players must navigate mysterious labyrinths, avoid ghosts, and collect Scooby Snacks using **AI-powered pathfinding algorithms**.
+
+📂 [View Presentation](./Presentation/Scooby-Doo_Mystery_Maze_Presentation.pdf)  
+🎮 [Download Demo](./Demo/Scooby-Doo_Mystery_Maze_Demo.zip)  
