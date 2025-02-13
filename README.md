@@ -1,7 +1,7 @@
 # 🐍 PyAdventures - Learn Python through Play! 🎮
 Welcome to PyAdventures, an interactive RPG that **teaches Python programming** through fun quests and puzzles.
 
-📂 [View Presentation](./Presentation/PyAdventures_Presentation.pdf)  
+📂 [View Presentation](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/blob/main/PyAdventure/Presentation/PyAdventures_Presentation.pptx)  
 🎮 [Download Demo](./Demo/PyAdventures_Demo.zip)  
 
 # 🌲 The Curse of the Magic Forest - Adventure Game ✨
