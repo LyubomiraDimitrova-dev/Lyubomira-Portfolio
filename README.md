@@ -19,5 +19,5 @@ A **mystical adventure game** where players navigate a cursed forest, solving pu
 # 🐶 Scooby-Doo Mystery Maze Mini Game 
 A **3D maze adventure game** inspired by the classic Scooby-Doo series! Players must navigate mysterious labyrinths, avoid ghosts, and collect Scooby Snacks using **AI-powered pathfinding algorithms**.
 
-📂 [View Scooby-Doo Mystery Maze Presentation](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/Scooby-Doo-Mystery-Maze/Presentation/Mini%20Game%20Project%20Scooby-Doo%20Mystery%20Maze.pptx)    
+📂 [View Presentation](https://github.com/LyubomiraDimitrova-dev/Lyubomira-Portfolio/Scooby-Doo-Mystery-Maze/Presentation/Mini%20Game%20Project%20Scooby-Doo%20Mystery%20Maze.pptx)    
 🎮 [Download Demo](./Demo/Scooby-Doo_Mystery_Maze_Demo.zip)  
